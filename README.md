@@ -81,7 +81,7 @@ A physics-driven game focused on launching projectiles to destroy structures.
 ---
 
 ## 📄 CV
-📥 [Download CV (PDF)]([Sadeepa_Piyumal_Ranasinghe_Unreal_Developer_CV.pdf](https://github.com/sadeepapiyumal/Unreal-Engine-Portfolio/raw/main/Sadeepa_Piyumal_Ranasinghe_Unreal_Developer_CV.pdf))
+📥 [Download CV (PDF)]([Sadeepa_Piyumal_Ranasinghe_Unreal_Developer_CV.pdf](https://github.com/sadeepapiyumal/Unreal-Engine-Portfolio/blob/main/Sadeepa_Piyumal_Ranasinghe_Unreal_Developer_CV.pdf))
 
 ---
 
