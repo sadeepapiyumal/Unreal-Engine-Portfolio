@@ -1,2 +1,2 @@
 # Unreal-Engine-Portfolio
-Unreal Engine 5 portfolio showcasing gameplay systems, AI, and C++ projects developed as a SLIIT undergraduate.
+A collection of Unreal Engine 5 game projects demonstrating gameplay programming, AI behavior, and interactive systems.
