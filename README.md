@@ -14,7 +14,7 @@ Currently seeking a **internship** or **junior Unreal Engine role**.
 ---
 
 ## 🛠 Technical Skills
-- Unreal Engine 5.5
+- Unreal Engine 5.6
 - C++ (Gameplay Programming – Beginner)
 - Blueprint Visual Scripting
 - AI: Behavior Trees, NavMesh
@@ -26,7 +26,7 @@ Currently seeking a **internship** or **junior Unreal Engine role**.
 
 ## 🚀 Projects
 
-### 🔹 Shooter Sam (UE 5.5)
+### 🔹 Shooter Sam (UE 5.6)
 **Third-Person Shooter | Solo Project**
 
 A third-person shooter game focusing on combat mechanics and intelligent enemy behavior.
@@ -40,11 +40,10 @@ A third-person shooter game focusing on combat mechanics and intelligent enemy b
 
 🎥 Gameplay Video: https://drive.google.com/drive/folders/1PLCjmYknxosa7RfjZjh6X6BP8vmNBwfk?usp=sharing
 
-📁 Source Code: *Add repository link*
 
 ---
 
-### 🔹 Dungeon Escape (UE 5.5)
+### 🔹 Dungeon Escape (UE 5.6)
 **First-Person Puzzle Game | Solo Project**
 
 A puzzle-based first-person game where players interact with the environment to escape a dungeon.
@@ -58,11 +57,10 @@ A puzzle-based first-person game where players interact with the environment to 
 
 🎥 Gameplay Video: https://drive.google.com/drive/folders/14UodE9D5d-69jAbU9F-dviWvUsfr7yZr?usp=drive_link
 
-📁 Source Code: 
 
 ---
 
-### 🔹 Warehouse Wreckage (UE 5.5)
+### 🔹 Warehouse Wreckage (UE 5.6)
 **Physics-Based Destruction Game | Solo Project**
 
 A physics-driven game focused on launching projectiles to destroy structures.
@@ -75,8 +73,6 @@ A physics-driven game focused on launching projectiles to destroy structures.
 - Creative level building using Blueprint extensions
 
 🎥 Gameplay Video: https://drive.google.com/drive/folders/1valOak7BARo75EF7u6IIZ0TPxsNbXfw-?usp=sharing
-
-📁 Source Code: *Add repository link*
 
 ---
 
